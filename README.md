@@ -1,6 +1,6 @@
 # CSCCTFv4
 
-###Whispering Forensics Challenge 
+## Whispering Forensics Challenge 
 Reading the Challenge Name and Description we identify it is a network analysis challenge, that is related to PacketWhispring; Stealthily Transfer Data & Defeat Attribution Using DNS Queries & Text-Based Steganography, without the need for attacker-controlled Name Servers or domains, opening the given `.pcap` file and filtering it into dns queries:
 
 <img width="958" alt="2023-01-08 00_55_18-Main - VMware Workstation" src="https://user-images.githubusercontent.com/84410099/211171759-7c2921c4-5799-4e12-9fdd-eab045b0ff3e.png">
